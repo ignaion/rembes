@@ -1,0 +1,5 @@
+App\Entity\Note:
+    note_{1..50}:
+        title: <name()>
+        content: <name()>
+        created_Date: <date_create()>

@@ -56,5 +56,11 @@
             "allow-contrib": false,
             "require": "4.2.*"
         }
+    },
+    "require-dev": {
+        "doctrine/doctrine-fixtures-bundle": "^3.0",
+        "hautelook/alice-bundle": "^2.3",
+        "symfony/maker-bundle": "^1.9",
+        "symfony/web-server-bundle": "4.2.*"
     }
 }
